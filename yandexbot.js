@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Bot for Yandex 2
+// @name         yandexbot 2
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  yandexbot
 // @author       Александр
 // @match        https://yandex.ru/*
 // @match        https://xn----7sbab5aqcbiddtdj1e1g.xn--p1ai/*
